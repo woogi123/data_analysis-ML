@@ -1,2 +1,5 @@
 .env
-.gitignore
+
+LG_Aimers/submission.xls
+LG_Aimers/train.xls
+LG_Aimers/submission.csvs
